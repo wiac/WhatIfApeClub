@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb94B7b95b831aC0C84135a58435Fe79Fb1021D9A",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb94b7b95b831ac0c84135a58435fe79fb1021d9a#writeContract",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "What If Ape Club",
+  "SYMBOL": "What If Ape",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io",
+  "SHOW_BACKGROUND": true
+}
